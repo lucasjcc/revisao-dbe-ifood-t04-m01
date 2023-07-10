@@ -1,3 +1,5 @@
+# Exercícios propostos
+Abaixo estão alguns exercícios propostos para fixação do conteúdo
 - https://www.hackerrank.com/contests/psel-ifood-012021/challenges/tem-copa-tem-jogos-nao-meh
 - https://www.hackerrank.com/contests/psel-ifood-012021/challenges/no-escurinho-do-cinema
 - https://www.hackerrank.com/contests/psel-ifood-012021/challenges/mobilapp
